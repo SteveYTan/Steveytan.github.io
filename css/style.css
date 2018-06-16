@@ -43,6 +43,10 @@ p {
 .about-me {
 	margin-top:25px;
 }
+.about-me-description{
+	margin: 0 auto;
+	width: 600px;
+}
 
 nav {
 	display: flex;
